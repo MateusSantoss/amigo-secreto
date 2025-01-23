@@ -29,6 +29,11 @@ body {
     height: 100%;
     width: 100%;
 }
+.aviso {
+    color: red;
+    position: relative;
+    bottom: 10px;
+}
 
 /* Banner */
 .header-banner {
